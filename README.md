@@ -1,3 +1,29 @@
+## Introduction
+
+This project is a personal finance management system developed using Laravel. It provides features for user authentication, income and expense tracking, category management, transaction recording, and financial reporting.
+
+## Features
+
+**User Authentication**
+- Login/Register/Logout: Users can perform authentication operations.
+
+**Income and Expense Management**
+- CRUD Operations on Categories: Users can create, delete, edit, and list income and expense categories.
+- Transaction Recording: Users can record income and expense transactions based on predefined categories.
+
+**Financial Reporting**
+- Daily, Weekly, Monthly, Yearly Reports: Users can generate reports for income and expenses on various time intervals.
+- Graphical Representation: Reports are presented with graphs and charts for better visualization.
+- Currency Support: Users can view reports and graphs in multiple currencies.
+
+**Profit/Loss Calculation**
+- Profit and Loss Statement: Users can calculate their overall profit or loss based on recorded transactions.
+
+**Personalization**
+- Customization: Users can customize their financial management settings according to their preferences.
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
